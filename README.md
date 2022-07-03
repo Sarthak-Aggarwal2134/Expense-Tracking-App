@@ -24,7 +24,7 @@ Dashboard | Face & Touch ID | All Income | All Expense | Add Transaction
 ## Built With 🛠
 - [SwiftUI](https://developer.apple.com/documentation/swiftui/) - SwiftUI is an innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift.
 - [CoreData](https://developer.apple.com/documentation/coredata) - Framework used to manage the model layer objects in the application.
-- [Figma](https://figma.com/) - Figma is a vector graphics editor and prototyping tool which is primarily web-based.
+
 
 <br />
 
